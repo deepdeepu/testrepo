@@ -1,2 +1,2 @@
-testrepodeepak
+testrepo
 ========
